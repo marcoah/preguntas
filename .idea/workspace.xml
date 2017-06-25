@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="150c848a-fcb6-4633-a252-93250bd43682" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/marcar_leido.php" afterPath="$PROJECT_DIR$/marcar_leido.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pantalla.php" afterPath="$PROJECT_DIR$/pantalla.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vertabla.php" afterPath="$PROJECT_DIR$/vertabla.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,19 +41,19 @@
         <option value="$PROJECT_DIR$/reporte.php" />
         <option value="$PROJECT_DIR$/verpreguntas.php" />
         <option value="$PROJECT_DIR$/config.php" />
-        <option value="$PROJECT_DIR$/pantalla.php" />
         <option value="$PROJECT_DIR$/reiniciarleidos.php" />
         <option value="$PROJECT_DIR$/leido.php" />
-        <option value="$PROJECT_DIR$/vertabla.php" />
         <option value="$PROJECT_DIR$/action_page.php" />
         <option value="$PROJECT_DIR$/config_nayma.php" />
-        <option value="$PROJECT_DIR$/marcar_leido.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/reg_preguntas.php" />
         <option value="$PROJECT_DIR$/tabla_preguntas.php" />
         <option value="$PROJECT_DIR$/contacto.html" />
         <option value="$PROJECT_DIR$/reporte.html" />
         <option value="$PROJECT_DIR$/detalle_pregunta.php" />
+        <option value="$PROJECT_DIR$/pantalla.php" />
+        <option value="$PROJECT_DIR$/marcar_leido.php" />
+        <option value="$PROJECT_DIR$/vertabla.php" />
       </list>
     </option>
   </component>
@@ -219,12 +222,20 @@
       <workItem from="1498371833817" duration="1204000" />
       <workItem from="1498415311535" duration="986000" />
       <workItem from="1498420479803" duration="4436000" />
-      <workItem from="1498425577146" duration="83000" />
+      <workItem from="1498425577146" duration="473000" />
     </task>
+    <task id="LOCAL-00001" summary="Agregado datos idea y archivo SQL">
+      <created>1498425689007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498425689007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77142000" />
+    <option name="totallyTimeSpent" value="77532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -254,6 +265,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregado datos idea y archivo SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregado datos idea y archivo SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -327,16 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pantalla.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <marker date="1498366020676" expanded="true" signature="205:279" ph="SELECT * FRO... tbl_preguntas" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leido.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -358,14 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/verpreguntas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" column="69" lean-forward="false" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/cover.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -378,36 +375,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcar_leido.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-          <folding>
-            <marker date="1498371035327" expanded="true" signature="230:281" ph="update tbl_p... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vertabla.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-          <folding>
-            <marker date="1498366020755" expanded="true" signature="297:345" ph="SELECT * FRO... tbl_preguntas" />
-            <marker date="1498366020755" expanded="true" signature="430:557" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="439:555" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="625:638" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="625:639" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="625:645" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="625:680" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="625:682" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="625:718" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="625:763" ph="..." />
-            <marker date="1498366020755" expanded="true" signature="625:794" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -470,6 +437,54 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pantalla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1498425950791" expanded="true" signature="205:279" ph="SELECT * FRO... tbl_preguntas" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vertabla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1498426010010" expanded="true" signature="297:345" ph="SELECT * FRO... tbl_preguntas" />
+            <marker date="1498426010010" expanded="true" signature="430:557" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="439:555" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="625:638" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="625:639" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="625:645" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="625:680" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="625:682" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="625:718" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="625:763" ph="..." />
+            <marker date="1498426010010" expanded="true" signature="625:794" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verpreguntas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="13" column="69" lean-forward="false" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marcar_leido.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1498425950895" expanded="true" signature="230:281" ph="update tbl_p... " />
+          </folding>
         </state>
       </provider>
     </entry>

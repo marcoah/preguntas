@@ -40,8 +40,6 @@ while($row = mysqli_fetch_array($result)) {
 
 }
 
-$t_id=mysqli_thread_id($conn);
-mysqli_kill($conn,$t_id);
 mysqli_close($conn);
 
 echo '</table>';

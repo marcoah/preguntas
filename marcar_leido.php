@@ -16,4 +16,5 @@ if (mysqli_query($conn, $sel)===True) {
     header("Location: tabla_preguntas.php");
     printf("<a href='tabla_preguntas.php'>Volver a las preguntas</a>");
 };
+
 mysqli_close($conn);

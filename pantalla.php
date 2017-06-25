@@ -11,9 +11,4 @@ $row = $result->fetch_assoc();
 if (is_array($row))
     echo json_encode($row);
 
-// Get thread id
-$t_id=mysqli_thread_id($conn);
-
-// Kill connection
-mysqli_kill($conn,$t_id);
 mysqli_close($conn);

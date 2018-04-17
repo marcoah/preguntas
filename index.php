@@ -13,12 +13,8 @@
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
     <link href="css/cover.css" rel="stylesheet">
-    <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
 </head>
 
 <body>
@@ -43,14 +39,12 @@
                 <div class="row">
                     <div class="col-md-3"></div>
                     <div class="col-md-3"><img src="img/logo_ciea_blanco.png" class="img-responsive" alt="logo ciea blanco" width="173" height="70" /></div>
-                    <div class="col-md-3"><img src="img/logo_comision.png" class="img-responsive" alt="logo comision" width="76" height="70" /></div>
                     <div class="col-md-3"></div>
                 </div>
 
-                <h1 class="cover-heading">Experiencias de Exportadores</h1>
+                <h1 class="cover-heading">Sistema para Preguntas en eventos</h1>
                 <h2 class="cover-heading">Cámara de Industriales del Estado Aragua</h2>
                 <p class="lead">Gestionamos Valor, Construimos Soluciones</p>
-                <p class="lead">Maracay, 26 de Junio de 2017.</p>
                 <p class="lead">
                     <a href="reg_preguntas.php" class="btn btn-lg btn-default">Registrar Preguntas</a>
                     <a href="tabla_preguntas.php" class="btn btn-lg btn-default">Ver Preguntas</a>
@@ -59,7 +53,7 @@
 
             <div class="mastfoot">
                 <div class="inner">
-                    <p>Sistema creado por <a href="https://marcohernandez.com.ve">Marco Hernandez</a>, con patrocinio de <a href="https://naymaconsultores.com">Nayma Consultores</a>.26 de Junio de 2017</p>
+                    <p>Sistema creado por <a href="https://marcohernandez.com.ve">Marco Hernandez</a>(c) 2017-2018</p>
                 </div>
             </div>
         </div>

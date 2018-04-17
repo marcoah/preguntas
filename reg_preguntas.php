@@ -39,7 +39,6 @@
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="contacto.html">Contacto</a></li>
                 <li><a href="reporte.html">Reporte</a></li>
-                <img src="img/logo_comision.png" class="img-responsive" alt="logo comision" width="52" height="48" />
             </ul>
         </div><!--/.nav-collapse -->
     </div>

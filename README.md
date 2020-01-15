@@ -5,6 +5,7 @@ El objetivo de esta aplicacion es crear una interfaz para que los asistentes a u
 La aplicacion requiere estar disponible en un subdomino relacionado al evento y los participantes deberán escribir su nombre, telefono y correo para hacer las preguntas.
 
 
+
 <h2>ARCHIVOS con AJAX</h2>
 <ol>
 <li>verpreguntas.php</li>
@@ -25,15 +26,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Requisitos
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Pocos
 
 ### Instalando
 
-A step by step series of examples that tell you how to get a development env running
+Para instalar proceder de la siguiente manera
 
 Say what the step will be
 
@@ -93,11 +90,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
+## Licencia
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Reconocimientos
 
 * Hat tip to anyone whose code was used
 * Inspiration

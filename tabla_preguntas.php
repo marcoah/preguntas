@@ -26,8 +26,6 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <img src="img/logo_ciea.png" class="img-responsive" alt="logo ciea" width="119" height="48" />
-
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">

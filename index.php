@@ -38,13 +38,13 @@
             <div class="inner cover">
                 <div class="row">
                     <div class="col-md-3"></div>
-                    <div class="col-md-3"><img src="img/logo_ciea_blanco.png" class="img-responsive" alt="logo ciea blanco" width="173" height="70" /></div>
+                    <div class="col-md-3"></div>
                     <div class="col-md-3"></div>
                 </div>
 
                 <h1 class="cover-heading">Sistema para Preguntas en eventos</h1>
-                <h2 class="cover-heading">Cámara de Industriales del Estado Aragua</h2>
-                <p class="lead">Gestionamos Valor, Construimos Soluciones</p>
+                <h2 class="cover-heading">Linea 2 Linea 2 Linea 2 Linea 2</h2>
+                <p class="lead">Linea 3 Linea 3 Linea 3 Linea 3</p>
                 <p class="lead">
                     <a href="reg_preguntas.php" class="btn btn-lg btn-default">Registrar Preguntas</a>
                     <a href="tabla_preguntas.php" class="btn btn-lg btn-default">Ver Preguntas</a>
